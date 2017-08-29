@@ -1,0 +1,6 @@
+
+.metadata/*
+Testmod/.classpath
+Testmod/.gradle/*
+/.metadata/
+Testmod/eclipse/logs/*
